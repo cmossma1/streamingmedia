@@ -11,13 +11,13 @@
 /* Text */
 
 h1 {
-    font-size: 20pt;
+    font-size: 20px;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
 }
 
 h2 {
-    font-size: 18pt;
+    font-size: 18px;
     font-family: "Raleway", sans-serif;
     background-color: white;
     color:var(--color-maroon);
@@ -107,6 +107,8 @@ ul {
     margin-top:-5px;
     margin-bottom: 0px;
     padding-left: 0px;
+    background-color:var(--color-dark-blue);
+    padding-top: 15px;
 }
 
 nav ul li:first-child {
