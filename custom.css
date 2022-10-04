@@ -404,6 +404,7 @@ footer {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         padding-top: 15px;
+        background-color: var(--color-darker-blue);
     }
 
     .more {
